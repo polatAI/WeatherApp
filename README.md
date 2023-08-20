@@ -13,7 +13,7 @@ WeatherApp
 <!-- Başlık ve Başlık Resmi -->
 <h1 align="center">HavaDurumuApp ☀️🌦️🌧️</h1>
 <p align="center">
-  <img src="link_to_image.png" alt="Uygulama Görseli" width="300">
+  <img src="https://i.hizliresim.com/eoy5lnu.png" alt="Uygulama Görseli" width="300">
 </p>
 
 <!-- Açıklama -->
