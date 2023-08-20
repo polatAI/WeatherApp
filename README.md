@@ -47,13 +47,5 @@ WeatherApp
 <h2>Ekran Görüntüsü</h2>
 <p><img src="https://i.hizliresim.com/eoy5lnu.png" alt="Uygulama Ekran Görüntüsü"></p>
 
-<!-- Katkıda Bulunma -->
-<h2>Katkıda Bulunma</h2>
-<p>Her türlü katkı ve öneriye açığız! Lütfen <a href="CONTRIBUTING.md">CONTRIBUTING</a> dosyasını okuyun.</p>
-
-<!-- Lisans -->
-<h2>Lisans</h2>
-<p>Bu proje <a href="LICENSE">MIT Lisansı</a> altında lisanslanmıştır.</p>
-
 </body>
 </html>
